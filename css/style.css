@@ -1,0 +1,12 @@
+canvas {
+  outline:none;
+}
+
+html,
+form,
+body {
+  background: black;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
